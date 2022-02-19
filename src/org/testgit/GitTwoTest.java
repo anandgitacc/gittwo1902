@@ -14,6 +14,11 @@ public class GitTwoTest {
 		System.out.println("git test 3");
 	}
 	
+	private void five() {
+		
+		System.out.println("Location : OMR");
+	}
+	
 	public static void main(String[] args) {
 		
 		GitTwoTest g = new GitTwoTest();
